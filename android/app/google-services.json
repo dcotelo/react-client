@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "404058908327",
+    "firebase_url": "https://iohub-4c513.firebaseio.com",
+    "project_id": "iohub-4c513",
+    "storage_bucket": "iohub-4c513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404058908327:android:3545b04dfcd0dacb",
+        "android_client_info": {
+          "package_name": "com.iolabs.hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404058908327-1ok6sch2esecplbigan68ge15u0oq9v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4mVyg5TQI-WHRO6dhXERBhx8G84bOKK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

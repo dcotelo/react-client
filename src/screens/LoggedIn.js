@@ -23,6 +23,7 @@ export default class LoggedIn extends Component {
       url: 'http://192.168.1.107:8000/api/details',
       headers: headers,
     }).
+    
     then((response) => {
       this.setState({
         email: response.data.success.email,
