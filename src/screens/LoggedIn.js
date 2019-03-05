@@ -20,7 +20,7 @@ export default class LoggedIn extends Component {
     };
     axios({
       method: 'POST',
-      url: 'http://192.168.1.107:8000/api/details',
+      url: 'http://demo.iolabs.uy/api/details',
       headers: headers,
     }).
     

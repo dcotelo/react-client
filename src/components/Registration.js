@@ -26,7 +26,7 @@ class Registration extends Component {
     this.setState({ error: '', loading: true });
 
     // NOTE Post to HTTPS only in production
-    axios.post("http://192.168.1.107:8000/api/register",{
+    axios.post("http://demo.iolabs.uy/api/register",{
     
         name: name,
         email: email,

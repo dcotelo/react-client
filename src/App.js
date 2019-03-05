@@ -120,7 +120,7 @@ async getToken() {
        const headers = {
         'Authorization': 'Bearer ' + value
       };
-      axios.post("http://192.168.1.107:8000/api/fcm",{
+      axios.post("http://demo.iolabs.uy/api/fcm",{
         fcm: fcmToken,
         jwt: value
     },{headers: headers})
